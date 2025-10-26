@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DancingDog73
 - 👀 I’m interested in AI, algorithms and problem solving. 
-- 🌱 I’m currently learning computer science at the university of Caen
+- 🌱 I’m currently learning software  science at the university of Toulouse
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me : hkagbere3@gmail.com
 - 😄 Pronouns: HIM
